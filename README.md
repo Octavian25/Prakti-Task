@@ -1,5 +1,6 @@
 
 # PraktiTask
+![](https://raw.githubusercontent.com/Octavian25/praktitask/main/assets/icons/logo.png)
 
 PraktiTask adalah aplikasi todo dan pengingat yang dibuat dengan Flutter, dirancang untuk membantu Anda mengatur tugas harian Anda dengan lebih efektif. Aplikasi ini memungkinkan pengguna untuk membuat daftar tugas (todo list), menetapkan tanggal dan waktu pengingat, dan menerima notifikasi untuk mengingatkan tentang tugas yang perlu dilakukan.
 
