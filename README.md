@@ -18,13 +18,13 @@ Untuk menggunakan PraktiTask, ikuti langkah-langkah berikut:
 2. Clone repositori GitHub ini:
 
 ```bash
-git clone https://github.com/username/PraktiTask.git
+git clone https://github.com/username/praktitask.git
 ```
 
 3. Masuk ke direktori aplikasi:
 
 ```bash
-cd PraktiTask
+cd praktitask
 ```
 
 4. Jalankan aplikasi dengan Flutter:
